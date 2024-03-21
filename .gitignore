@@ -1,0 +1,7 @@
+.DS_Store
+brackets.json
+*.config
+*.zip
+/_assets
+/_ipa
+*.mp4
